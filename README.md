@@ -2,6 +2,10 @@
 
 This python package helps you to calculate Binomial and Gaussian distribution
 
+My python package link :-
+https://pypi.org/project/dist-prob-binomial-gaussian/
+It is upload in pypi.org website
+
 It also print Graph (Histogram, Bar Chart, Line Plot) as per given data.
 
 
