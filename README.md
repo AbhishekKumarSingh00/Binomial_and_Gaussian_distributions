@@ -1,3 +1,9 @@
+## Prerequisites
+- Python 3.7+
+- matplotlib package
+- numpy package
+- pandas package
+
 ## dist_prob_binomial_gaussian
 
 This python package helps you to calculate Binomial and Gaussian distribution
