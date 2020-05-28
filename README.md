@@ -23,9 +23,13 @@ It also print Graph (Histogram, Bar Chart, Line Plot) as per given data.
 ## Files
 
 It has Binomialdistribution.py, Gaussiandistribution.py, Generaldistibution.py  major classes
+
 Binomialdistribution.py and Gaussiandistribution.py are derived class of Generaldistibution.py
+
 Example :-
+
 from dist_prob_binomial_gaussian import Gaussian       //For Gaussian distribution
+
 from dist_prob_binomial_gaussian import Binomial       //For Binomial distribution
 
 dist_prob_binomial_gaussian --> this the file in which all three classes are present
