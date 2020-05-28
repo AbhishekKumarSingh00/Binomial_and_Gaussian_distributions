@@ -2,7 +2,7 @@
 
 This python package helps you to calculate Binomial and Gaussian distribution
 
-My python package link :-
+My python package link 
 https://pypi.org/project/dist-prob-binomial-gaussian/
 It is upload in pypi.org website
 
@@ -22,8 +22,8 @@ It also print Graph (Histogram, Bar Chart, Line Plot) as per given data.
 
 ## Files
 
-It has Binomialdistribution.py, Gaussiandistribution.py, Generaldistibution.py  major classes.
-Binomialdistribution.py and Gaussiandistribution.py are derived class of Generaldistibution.py.
+It has Binomialdistribution.py, Gaussiandistribution.py, Generaldistibution.py  major classes
+Binomialdistribution.py and Gaussiandistribution.py are derived class of Generaldistibution.py
 Example :-
 from dist_prob_binomial_gaussian import Gaussian       //For Gaussian distribution
 from dist_prob_binomial_gaussian import Binomial       //For Binomial distribution
